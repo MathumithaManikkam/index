@@ -1,0 +1,11 @@
+
+h2{
+    color:blue;
+    background-image:linear-gradient(lightgreen,white,lightgreen) ;
+    padding:100px;
+    padding-left:10%;
+    border-width:5px;
+    border-color:brown;
+    border-style: solid;
+    margin:10%;
+}
